@@ -1,1 +1,3 @@
-rootProject.name = 'A-Cell'
+rootProject.name = 'a-cell'
+include 'api'
+include 'db'
